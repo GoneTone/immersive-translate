@@ -9,8 +9,8 @@
 // @match      *://*/*
 // @include    *
 // @icon        https://s.immersivetranslate.com/static/official-static/favicon.png
-// @downloadURL https://download.immersivetranslate.com/immersive-translate.user.js
-// @updateURL https://download.immersivetranslate.com/immersive-translate.user.js
+// @downloadURL https://github.com/GoneTone/immersive-translate/raw/refs/heads/main/dist/userscript/immersive-translate.user.js
+// @updateURL https://github.com/GoneTone/immersive-translate/raw/refs/heads/main/dist/userscript/immersive-translate.user.js
 // @inject-into    content
 // @grant       GM.getValue
 // @grant       GM.setValue
@@ -87,10 +87,11 @@
 // @connect    public-beta-api.siliconflow.cn
 // @connect    api.siliconflow.cn
 // @connect    open.bigmodel.cn
+// @connect    ollama.reh.tw
 // @run-at       document-end
 // @name:tr     Immersive Translate - Web ve PDF Çevir
 // @description:tr     Web sayfalarını, PDF'leri ve e-kitapları çevir, video altyazılarını çevir, dil öğren
-// @name:zh-TW     沉浸式翻譯 - 網頁翻譯及 PDF 翻譯
+// @name:zh-TW     【修改】沉浸式翻譯 - 網頁翻譯及 PDF 翻譯
 // @description:zh-TW     【沉浸式翻譯】免費的（原文/譯文）雙語對照網頁翻譯插件，支持PDF翻譯（保留排版），影片雙語字幕翻譯（Youtube, Netflix），EPUB電子書翻譯；支持人工智能AI翻譯大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）
 // @name:zh-CN     沉浸式翻译 - 网页翻译插件 | PDF翻译 | 免费
 // @description:zh-CN     【沉浸式翻译】免费的（原文/译文）双语对照网页翻译插件，支持PDF翻译（保留排版），视频双语字幕翻译（Youtube, Netflix），EPUB电子书翻译；支持人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）
