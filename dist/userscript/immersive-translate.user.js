@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Immersive Translate - Translate Web & PDF
+// @name         [Modify] Immersive Translate - Translate Web & PDF
 // @description  Free Translate Website, Translate PDF & Epub eBook, Translate Video Subtitles in Bilingual
 // @version      1.14.16
-// @namespace    https://immersive-translate.owenyoung.com/
+// @namespace    https://github.com/GoneTone/immersive-translate/
 // @author       Owen Young
 // @homepageURL    https://immersivetranslate.com/
 // @supportURL    https://github.com/immersive-translate/immersive-translate/
