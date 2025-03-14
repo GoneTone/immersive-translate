@@ -22,7 +22,7 @@ jobs:
       - name: Add immersive-translate remote repository
         run: |
           git remote add immersive-translate https://github.com/immersive-translate/immersive-translate.git
-          git fetch immersive-translate
+          git fetch immersive-translate main  # 只獲取 main 分支
 
       - name: Force merge immersive-translate repository
         run: |
