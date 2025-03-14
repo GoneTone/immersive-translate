@@ -88,6 +88,7 @@
 // @connect    api.siliconflow.cn
 // @connect    open.bigmodel.cn
 // @connect    ollama.reh.tw
+// @connect    ai.reh.tw
 // @run-at       document-end
 // @name:zh-TW     【修改】沉浸式翻譯 - 網頁翻譯及 PDF 翻譯
 // @description:zh-TW     【沉浸式翻譯】免費的（原文/譯文）雙語對照網頁翻譯插件，支持 PDF 翻譯（保留排版），影片雙語字幕翻譯（Youtube, Netflix），EPUB 電子書翻譯；支持人工智能 AI 翻譯大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）
