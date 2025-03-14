@@ -1,0 +1,41 @@
+name: Modify and Update Repository
+on:
+  # 你可以根據需要選擇觸發條件
+  workflow_dispatch:  # 允許手動觸發
+  # schedule:
+  #   - cron: '0 0 * * *'  # 每天執行一次
+
+jobs:
+  merge-and-modify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 完整克隆以確保可以正確合併
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add immersive-translate remote repository
+        run: |
+          git remote add immersive-translate https://github.com/immersive-translate/immersive-translate.git
+          git fetch immersive-translate
+
+      - name: Force merge immersive-translate repository
+        run: |
+          git merge --allow-unrelated-histories -X theirs immersive-translate/main
+          # -X theirs 選項表示衝突時使用他們的版本（即遠端版本）
+
+      - name: Execute modify.sh script
+        run: |
+          chmod +x ./modify.sh
+          ./modify.sh
+
+      - name: Commit and push changes
+        run: |
+          git add -A
+          git commit -m "Merge from immersive-translate and apply modifications" || echo "No changes to commit"
+          git push origin main
