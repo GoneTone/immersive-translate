@@ -2,8 +2,8 @@ name: Modify and Update Repository
 on:
   # 你可以根據需要選擇觸發條件
   workflow_dispatch:  # 允許手動觸發
-  # schedule:
-  #   - cron: '0 0 * * *'  # 每天執行一次
+  schedule:
+    - cron: '0 0 * * *'  # 每天執行一次
 
 jobs:
   merge-and-modify:
@@ -33,6 +33,7 @@ jobs:
         run: |
           chmod +x ./modify.sh
           ./modify.sh
+          git diff dist/userscript/immersive-translate.user.js
 
       - name: Commit and push changes
         run: |
