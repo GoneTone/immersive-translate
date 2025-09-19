@@ -2,8 +2,8 @@
 // @name         [Modify] Immersive Translate - Translate Web & PDF
 // @description  Immersive Translation: A free (original/translated) bilingual web translation plugin that supports PDF translation (preserving layout), bilingual subtitle translation for videos (YouTube, Netflix), and EPUB e-book translation. It also supports large AI translation models (OpenAI (ChatGPT), DeepL, Gemini (Bard), etc.)
 // @version      1.21.6
-// @namespace    https://immersive-translate.owenyoung.com/
-// @author       Owen Young
+// @namespace    https://github.com/GoneTone/immersive-translate/
+// @author       Owen Young (Modified by GoneTone)
 // @homepageURL    https://immersivetranslate.com/
 // @supportURL    https://github.com/immersive-translate/immersive-translate/
 // @match      *://*/*
