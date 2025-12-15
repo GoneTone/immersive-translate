@@ -4,7 +4,7 @@ SCRIPT_FILE="dist/userscript/immersive-translate.user.js"
 GITHUB_URL="https://github.com/GoneTone/immersive-translate/"
 SCRIPT_URL="${GITHUB_URL}raw/refs/heads/main/dist/userscript/immersive-translate.user.js"
 
-CONNECT_DOMAINS=("ollama.reh.tw" "ai.reh.tw")
+CONNECT_DOMAINS=("ollama.reh.tw" "ai.reh.tw" "192.168.0.150")
 
 # 檢查文件是否存在
 if [ ! -f "$SCRIPT_FILE" ]; then
