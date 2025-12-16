@@ -33,6 +33,7 @@
 // @require     https://raw.githubusercontent.com/Tampermonkey/utils/refs/heads/main/requires/gh_2215_make_GM_xhr_more_parallel_again.js
 // @connect    ollama.reh.tw
 // @connect    ai.reh.tw
+// @connect    192.168.0.150
 // @connect    google.com
 // @connect    translate.googleapis.com
 // @connect    api-edge.cognitive.microsofttranslator.com
