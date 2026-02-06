@@ -2,8 +2,8 @@
 // @name         [Modify] Immersive Translate - Translate Web & PDF
 // @description  Free Translate Website, Translate PDF & Epub eBook, Translate Video Subtitles in Bilingual
 // @version      1.26.1
-// @namespace    https://immersive-translate.owenyoung.com/
-// @author       Owen Young
+// @namespace    https://github.com/GoneTone/immersive-translate/
+// @author       Owen Young (Modified by GoneTone)
 // @homepageURL    https://immersivetranslate.com/
 // @supportURL    https://github.com/immersive-translate/immersive-translate/
 // @match      *://*/*
@@ -123,9 +123,9 @@
 // @description:de     Bilingual web page translation, also supports PDF translation, bilingual Epub eBook translation, free to use.
 // @name:ru     [Modify] Иммерсионный перевод: двуязычный перевод веб-страниц и PDF-документов
 // @description:ru     Bilingual web page translation, also supports PDF translation, bilingual Epub eBook translation, free to use.
-// @name:zh-HK     沉浸式翻譯 - 網頁翻譯及 PDF 翻譯
+// @name:zh-HK     [Modify] 沉浸式翻譯 - 網頁翻譯及 PDF 翻譯
 // @description:zh-HK     【沉浸式翻譯】免費的（原文/譯文）雙語對照網頁翻譯插件，支持 PDF 翻譯（保留排版），影片雙語字幕翻譯（Youtube, Netflix），EPUB 電子書翻譯；支持人工智能 AI 翻譯大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）
-// @name:hi     इमर्सिव अनुवाद: द्विभाषी वेब पेज अनुवाद और पीडीएफ दस्तावेज़ अनुवाद
+// @name:hi     [Modify] इमर्सिव अनुवाद: द्विभाषी वेब पेज अनुवाद और पीडीएफ दस्तावेज़ अनुवाद
 // @description:hi     Bilingual web page translation, also supports PDF translation, bilingual Epub eBook translation, free to use.
 // @name:zh-CN     [Modify] 沉浸式翻译 - 网页翻译插件 | PDF翻译 | 免费
 // @description:zh-CN     【沉浸式翻译】免费的（原文/译文）双语对照网页翻译插件，支持PDF翻译（保留排版），视频双语字幕翻译（Youtube, Netflix），EPUB电子书翻译；支持人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）
