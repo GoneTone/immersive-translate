@@ -2,8 +2,8 @@
 // @name         [Modify] Immersive Translate - Translate Web & PDF
 // @description  Free Translate Website, Translate PDF & Epub eBook, Translate Video Subtitles in Bilingual
 // @version      1.26.2
-// @namespace    https://immersive-translate.owenyoung.com/
-// @author       Owen Young
+// @namespace    https://github.com/GoneTone/immersive-translate/
+// @author       Owen Young (Modified by GoneTone)
 // @homepageURL    https://immersivetranslate.com/
 // @supportURL    https://github.com/immersive-translate/immersive-translate/
 // @match      *://*/*
@@ -103,9 +103,9 @@
 // @description:fa     Web bilingual translation, completely free to use, supports Deepl/Google/Bing/Tencent/Youdao, etc.
 // @name:he     [Modify] ‫⁦⁦Immersive Translate⁩ -⁩ תרגום אתרים ו⁦⁦PDF⁩-⁩‬
 // @description:he     ‫תרגום חינמי לאתרים, ⁦PDF⁩, ספרי ⁦EPUB⁩ וכתוביות וידאו דו⁦-⁩לשוניות‬
-// @name:zh-TW     沉浸式翻譯 - 網頁翻譯及 PDF 翻譯
+// @name:zh-TW     【修改】沉浸式翻譯 - 網頁翻譯及 PDF 翻譯
 // @description:zh-TW     【沉浸式翻譯】免費的（原文/譯文）雙語對照網頁翻譯擴充功能，支援 PDF 翻譯（保留排版），影片雙語字幕翻譯（Youtube, Netflix），EPUB 電子書翻譯；支持 AI 模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）
-// @name:id     Immersive Translate - Terjemahkan Web & PDF
+// @name:id     [Modify] Immersive Translate - Terjemahkan Web & PDF
 // @description:id     Situs Terjemahan Gratis, Terjemahkan PDF & Epub eBook, Terjemahkan Subtitle Video dalam Bilingual
 // @name:ar     [Modify] Immersive Translate - Translate Web & PDF
 // @description:ar     Bilingual web page translation, also supports PDF translation, bilingual Epub eBook translation, free to use.
