@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         [Modify] Immersive Translate - Translate Web & PDF
 // @description  Free Translate Website, Translate PDF & Epub eBook, Translate Video Subtitles in Bilingual
-// @version      1.26.6-modify.1
+// @version      1.26.6
 // @namespace    https://github.com/GoneTone/immersive-translate/
 // @author       Owen Young (Modified by GoneTone)
 // @homepageURL    https://immersivetranslate.com/
@@ -31,10 +31,9 @@
 // @grant       GM_openInTab
 // @grant       GM.openInTab
 // @require     https://raw.githubusercontent.com/Tampermonkey/utils/refs/heads/main/requires/gh_2215_make_GM_xhr_more_parallel_again.js
-// @connect    ollama.reh.tw
+// @connect    lms.reh.tw
 // @connect    ai.reh.tw
 // @connect    192.168.0.150
-// @connect    lms.reh.tw
 // @connect    google.com
 // @connect    translate.googleapis.com
 // @connect    api-edge.cognitive.microsofttranslator.com
