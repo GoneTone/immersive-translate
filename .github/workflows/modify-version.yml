@@ -23,5 +23,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add dist/userscript/immersive-translate.user.js
-          git commit -m "Update version with -modify suffix" || echo "No changes to commit"
+          git commit -m "Bump version with fourth segment" || echo "No changes to commit"
           git push origin main
