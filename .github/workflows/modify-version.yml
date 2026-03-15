@@ -1,0 +1,27 @@
+name: Modify Version
+on:
+  workflow_dispatch:  # 僅允許手動觸發
+
+jobs:
+  modify-version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v4
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Execute modify-version.sh script
+        run: |
+          chmod +x ./modify-version.sh
+          ./modify-version.sh
+          git diff dist/userscript/immersive-translate.user.js
+
+      - name: Commit and push changes
+        run: |
+          git add dist/userscript/immersive-translate.user.js
+          git commit -m "Update version with -modify suffix" || echo "No changes to commit"
+          git push origin main
