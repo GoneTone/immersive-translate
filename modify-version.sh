@@ -11,17 +11,17 @@ fi
 # 將文件換行符轉換為 LF
 sed -i 's/\r$//' "$SCRIPT_FILE"
 
-# 修改版本號，加上 -modify.N 後綴
+# 修改版本號，加上第四段數字
 CURRENT_VERSION=$(grep -oP '(?<=^// @version)\s+\K\S+' "$SCRIPT_FILE")
 if [[ -z "$CURRENT_VERSION" ]]; then
     echo "錯誤：無法從 $SCRIPT_FILE 中提取版本號。"
     exit 1
 fi
 
-if [[ "$CURRENT_VERSION" =~ ^(.+)-modify\.([0-9]+)$ ]]; then
-    NEW_VERSION="${BASH_REMATCH[1]}-modify.$(( ${BASH_REMATCH[2]} + 1 ))"
+if [[ "$CURRENT_VERSION" =~ ^([0-9]+\.[0-9]+\.[0-9]+)\.([0-9]+)$ ]]; then
+    NEW_VERSION="${BASH_REMATCH[1]}.$(( ${BASH_REMATCH[2]} + 1 ))"
 else
-    NEW_VERSION="${CURRENT_VERSION}-modify.1"
+    NEW_VERSION="${CURRENT_VERSION}.1"
 fi
 
 sed -i "s|^// @version\([[:space:]]\+\).*$|// @version\1$NEW_VERSION|" "$SCRIPT_FILE"
