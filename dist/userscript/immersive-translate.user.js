@@ -34,6 +34,7 @@
 // @connect    lms.reh.tw
 // @connect    ai.reh.tw
 // @connect    192.168.0.150
+// @connect    llm.reh.tw
 // @connect    google.com
 // @connect    translate.googleapis.com
 // @connect    api-edge.cognitive.microsofttranslator.com
