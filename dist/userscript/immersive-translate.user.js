@@ -109,9 +109,9 @@
 // @description:fa     Web bilingual translation, completely free to use, supports Deepl/Google/Bing/Tencent/Youdao, etc.
 // @name:pt-BR     [Modify] Immersive Translate - Tradutor Web & PDF
 // @description:pt-BR     Tradução gratuita de sites, PDF e e-books Epub, tradução de legendas de vídeo em modo bilíngue.
-// @name:zh-HK     沉浸式翻譯 - 網頁翻譯及 PDF翻譯
+// @name:zh-HK     [Modify] 沉浸式翻譯 - 網頁翻譯及 PDF翻譯
 // @description:zh-HK     【沉浸式翻譯】免費的（原文/譯文）雙語對照網頁翻譯擴充功能，支援 PDF翻譯（保留排版），影片雙語字幕翻譯（Youtube, Netflix），EPUB 電子書翻譯；支援 AI 模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）
-// @name:ja     Immersive Translate - ウェブページやPDFを翻訳
+// @name:ja     [Modify] Immersive Translate - ウェブページやPDFを翻訳
 // @description:ja     無料で使用できる（原文/翻訳）対訳Webページ翻訳拡張機能、PDF翻訳（元の文書のフォーマットを保持）、動画字幕翻訳（YouTube、Netflixなど）、EPUB電子書籍の翻訳。
 // @name:id     [Modify] Immersive Translate - Terjemahkan Web & PDF
 // @description:id     Situs Terjemahan Gratis, Terjemahkan PDF & Epub eBook, Terjemahkan Subtitle Video dalam Bilingual
