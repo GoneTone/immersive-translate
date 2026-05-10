@@ -2,8 +2,8 @@
 // @name         [Modify] Immersive Translate - Translate Web & PDF
 // @description  Free Translate Website, Translate PDF & Epub eBook, Translate Video Subtitles in Bilingual
 // @version      1.29.2
-// @namespace    https://immersive-translate.owenyoung.com/
-// @author       immersive translate
+// @namespace    https://github.com/GoneTone/immersive-translate/
+// @author       immersive translate (Modified by GoneTone)
 // @homepageURL    https://immersivetranslate.com/
 // @supportURL    https://github.com/immersive-translate/immersive-translate/
 // @match      *://*/*
@@ -132,9 +132,9 @@
 // @description:ko     [몰입형 번역] 무료 (원문/번역문) 이중 언어 대조 웹사이트 번역 확장 프로그램으로 PDF 번역 (조판 유지), 비디오 이중 언어 자막 번역 (YouTube, Netflix 등), EPUB 전자책 번역을 지원합니다.
 // @name:zh-CN     [Modify] 沉浸式翻译 - AI 双语网页翻译 | PDF翻译 | 视频翻译 | 漫画翻译
 // @description:zh-CN     【沉浸式翻译】免费的（原文/译文）双语对照网页翻译插件，支持PDF翻译（保留排版），视频双语字幕翻译（Youtube, Netflix），EPUB电子书翻译；支持人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）
-// @name:ru     Иммерсивный перевод: двуязычный перевод веб-страниц и PDF-документов
+// @name:ru     [Modify] Иммерсивный перевод: двуязычный перевод веб-страниц и PDF-документов
 // @description:ru     Двуязычный перевод веб-страниц, PDF и электронных книг EPUB, бесплатно.
-// @name:it     Immersion Translation: traduzione bilingue di pagine web e documenti PDF
+// @name:it     [Modify] Immersion Translation: traduzione bilingue di pagine web e documenti PDF
 // @description:it     Bilingual web page translation, also supports PDF translation, bilingual Epub eBook translation, free to use.
 // @name:fr     [Modify] Traduction immersive - Traduction des pages Web et des PDF
 // @description:fr     Bilingual web page translation, also supports PDF translation, bilingual Epub eBook translation, free to use.
