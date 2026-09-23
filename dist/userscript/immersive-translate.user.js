@@ -2,8 +2,8 @@
 // @name         [Modify] Immersive Translate: AI Web, PDF & Video Translator
 // @description  Free Translate Website, Translate PDF & Epub eBook, Translate Video Subtitles in Bilingual
 // @version      1.33.2
-// @namespace    https://immersive-translate.owenyoung.com/
-// @author       immersive translate
+// @namespace    https://github.com/GoneTone/immersive-translate/
+// @author       immersive translate (Modified by GoneTone)
 // @homepageURL    https://immersivetranslate.com/
 // @supportURL    https://github.com/immersive-translate/immersive-translate/
 // @match      *://*/*
@@ -111,9 +111,9 @@
 // @connect    aigw1.imtintl.com
 // @connect    api.platform.preferredai.jp
 // @run-at       document-end
-// @name:vi     Immersive Translate: Dịch web, PDF và video bằng AI
+// @name:vi     [Modify] Immersive Translate: Dịch web, PDF và video bằng AI
 // @description:vi     Tự do dịch trang web, biên dịch PDF & Epub, biên dịch video phụ đề bằng song ngữ
-// @name:ar     Immersive Translate - Translate Web & PDF
+// @name:ar     [Modify] Immersive Translate - Translate Web & PDF
 // @description:ar     Bilingual web page translation, also supports PDF translation, bilingual Epub eBook translation, free to use.
 // @name:he     [Modify] ‫⁦⁦Immersive Translate⁩ -⁩ תרגום אתרים ו⁦⁦PDF⁩-⁩‬
 // @description:he     ‫תרגום חינמי לאתרים, ⁦PDF⁩, ספרי ⁦EPUB⁩ וכתוביות וידאו דו⁦-⁩לשוניות‬
@@ -121,9 +121,9 @@
 // @description:zh-HK     【沉浸式翻譯】免費的（原文/譯文）雙語對照網頁翻譯擴充功能，支援 PDF翻譯（保留排版），影片雙語字幕翻譯（Youtube, Netflix），EPUB 電子書翻譯；支援 AI 模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）。
 // @name:pt-PT     [Modify] Tradução por imersão: Tradução bilingue de páginas Web e de documentos PDF
 // @description:pt-PT     Bilingual web page translation, also supports PDF translation, bilingual Epub eBook translation, free to use.
-// @name:ja     Immersive Translate - AI 2カ国語ウェブ翻訳 | PDF 翻訳 | 動画翻訳 | 漫画翻訳
+// @name:ja     [Modify] Immersive Translate - AI 2カ国語ウェブ翻訳 | PDF 翻訳 | 動画翻訳 | 漫画翻訳
 // @description:ja     原文と訳文を並べて読める無料のWebページ翻訳拡張機能。PDF 翻訳（レイアウト保持）、動画のバイリンガル字幕翻訳（YouTube、Netflixなど）、EPUB翻訳に対応。OpenAI (ChatGPT)、DeepL、Gemini(Bard) などのAI翻訳LLMも利用できます
-// @name:hi     इमर्सिव अनुवाद: द्विभाषी वेब पेज अनुवाद और पीडीएफ दस्तावेज़ अनुवाद
+// @name:hi     [Modify] इमर्सिव अनुवाद: द्विभाषी वेब पेज अनुवाद और पीडीएफ दस्तावेज़ अनुवाद
 // @description:hi     Bilingual web page translation, also supports PDF translation, bilingual Epub eBook translation, free to use.
 // @name:tr     [Modify] Immersive Translate - Web ve PDF Çevir
 // @description:tr     Web sayfalarını, PDF'leri ve e-kitapları çevir, video altyazılarını çevir, dil öğren
