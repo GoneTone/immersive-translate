@@ -2,8 +2,8 @@
 // @name         [Modify] Immersive Translate: AI Web, PDF & Video Translator
 // @description  Free Translate Website, Translate PDF & Epub eBook, Translate Video Subtitles in Bilingual
 // @version      1.34.1
-// @namespace    https://immersive-translate.owenyoung.com/
-// @author       immersive translate
+// @namespace    https://github.com/GoneTone/immersive-translate/
+// @author       immersive translate (Modified by GoneTone)
 // @homepageURL    https://immersivetranslate.com/
 // @supportURL    https://github.com/immersive-translate/immersive-translate/
 // @match      *://*/*
@@ -113,45 +113,45 @@
 // @run-at       document-end
 // @name:vi     [Modify] Immersive Translate: Dịch web, PDF và video bằng AI
 // @description:vi     Tự do dịch trang web, biên dịch PDF & Epub, biên dịch video phụ đề bằng song ngữ
-// @name:ar     Immersive Translate: ترجمة الويب وPDF والفيديو بالذكاء الاصطناعي
+// @name:ar     [Modify] Immersive Translate: ترجمة الويب وPDF والفيديو بالذكاء الاصطناعي
 // @description:ar     ترجمة صفحات الويب وملفات PDF وePub مجانًا، مع ترجمة نصية ثنائية اللغة للفيديو.
-// @name:he     ‫⁦⁦Immersive Translate⁩ -⁩ תרגום אתרים ו⁦⁦PDF⁩-⁩‬
+// @name:he     [Modify] ‫⁦⁦Immersive Translate⁩ -⁩ תרגום אתרים ו⁦⁦PDF⁩-⁩‬
 // @description:he     ‫תרגום חינמי לאתרים, ⁦PDF⁩, ספרי ⁦EPUB⁩ וכתוביות וידאו דו⁦-⁩לשוניות‬
 // @name:zh-HK     [Modify] 沉浸式翻譯 - AI 雙語網頁翻譯 | PDF翻譯 | 影片翻譯 | 漫畫翻譯
 // @description:zh-HK     【沉浸式翻譯】免費的（原文/譯文）雙語對照網頁翻譯擴充功能，支援 PDF翻譯（保留排版），影片雙語字幕翻譯（Youtube, Netflix），EPUB 電子書翻譯；支援 AI 模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）。
-// @name:pt-PT     Tradução por imersão: Tradução bilingue de páginas Web e de documentos PDF
+// @name:pt-PT     [Modify] Tradução por imersão: Tradução bilingue de páginas Web e de documentos PDF
 // @description:pt-PT     Tradução bilingue gratuita de páginas Web e legendas de vídeo, além de tradução de PDF e livros EPUB.
-// @name:ja     Immersive Translate - AI 2カ国語ウェブ翻訳 | PDF 翻訳 | 動画翻訳 | 漫画翻訳
+// @name:ja     [Modify] Immersive Translate - AI 2カ国語ウェブ翻訳 | PDF 翻訳 | 動画翻訳 | 漫画翻訳
 // @description:ja     原文と訳文を並べて読める無料のWebページ翻訳拡張機能。PDF 翻訳（レイアウト保持）、動画のバイリンガル字幕翻訳（YouTube、Netflixなど）、EPUB翻訳に対応。OpenAI (ChatGPT)、DeepL、Gemini(Bard) などのAI翻訳LLMも利用できます
-// @name:hi     इमर्सिव अनुवाद: द्विभाषी वेब पेज अनुवाद और पीडीएफ दस्तावेज़ अनुवाद
+// @name:hi     [Modify] इमर्सिव अनुवाद: द्विभाषी वेब पेज अनुवाद और पीडीएफ दस्तावेज़ अनुवाद
 // @description:hi     वेबसाइट, PDF और ePub का मुफ़्त अनुवाद। वीडियो के लिए दो भाषाओं में सबटाइटल।
-// @name:tr     Immersive Translate - Web ve PDF Çevir
+// @name:tr     [Modify] Immersive Translate - Web ve PDF Çevir
 // @description:tr     Web sayfalarını, PDF'leri ve e-kitapları çevir, video altyazılarını çevir, dil öğren
 // @name:zh-CN     [Modify] 沉浸式翻译 - AI 双语网页翻译 | PDF翻译 | 视频翻译 | 漫画翻译
 // @description:zh-CN     【沉浸式翻译】免费的（原文/译文）双语对照网页翻译插件，支持PDF翻译（保留排版），视频双语字幕翻译（Youtube, Netflix），EPUB电子书翻译；支持人工智能AI翻译大模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）
-// @name:fr     Traduction immersive - Traduction des pages Web et des PDF
+// @name:fr     [Modify] Traduction immersive - Traduction des pages Web et des PDF
 // @description:fr     Traduction bilingue gratuite de pages web et de sous-titres vidéo, avec traduction de PDF et de livres EPUB.
-// @name:de     Immersion Translation: Bilinguale Webseiten & PDF Übersetzung
+// @name:de     [Modify] Immersion Translation: Bilinguale Webseiten & PDF Übersetzung
 // @description:de     Kostenlose zweisprachige Übersetzung von Webseiten und Videountertiteln sowie Übersetzung von PDFs und EPUB-E-Books.
-// @name:fa     ترجمه همه‌جانبه - ترجمه وب و پی‌دی‌اف
+// @name:fa     [Modify] ترجمه همه‌جانبه - ترجمه وب و پی‌دی‌اف
 // @description:fa     ترجمهٔ رایگان وب‌سایت، فایل‌های PDF وePub و زیرنویس دوزبانهٔ ویدیو.
-// @name:es     Immersion Translation: Traducción bilingüe de páginas web y documentos PDF
+// @name:es     [Modify] Immersion Translation: Traducción bilingüe de páginas web y documentos PDF
 // @description:es     Traducción bilingüe gratuita de páginas web y subtítulos de vídeo, además de traducción de PDF y libros EPUB.
-// @name:zh-TW     沉浸式翻譯 - AI 雙語網頁翻譯 | PDF翻譯 | 影片翻譯 | 漫畫翻譯
+// @name:zh-TW     【修改】沉浸式翻譯 - AI 雙語網頁翻譯 | PDF翻譯 | 影片翻譯 | 漫畫翻譯
 // @description:zh-TW     【沉浸式翻譯】免費的（原文/譯文）雙語對照網頁翻譯擴充功能，支援 PDF翻譯（保留排版），影片雙語字幕翻譯（Youtube, Netflix），EPUB 電子書翻譯；支援 AI 模型（OpenAI (ChatGPT)、DeepL、Gemini(Bard) 等）。
 // @name:pt-BR     [Modify] Immersive Translate - Tradutor Web & PDF
 // @description:pt-BR     Tradução gratuita de sites, PDF e e-books Epub, tradução de legendas de vídeo em modo bilíngue.
 // @name:th     [Modify] Immersive Translate: แปลเว็บสองภาษา AI, PDF, วิดีโอ และการ์ตูน
 // @description:th     【Immersive Translate】ส่วนขยายแปลเว็บสองภาษาฟรี รองรับ PDF แบบคงรูปแบบ คำบรรยายสองภาษาใน YouTube/Netflix และ EPUB พร้อมโมเดล AI เช่น ChatGPT, DeepL และ Gemini
-// @name:it     Immersion Translation: traduzione bilingue di pagine web e documenti PDF
+// @name:it     [Modify] Immersion Translation: traduzione bilingue di pagine web e documenti PDF
 // @description:it     Traduzione bilingue gratuita di pagine web e sottotitoli video, con traduzione di PDF ed eBook EPUB.
-// @name:ru     Иммерсивный перевод: двуязычный перевод веб-страниц и PDF-документов
+// @name:ru     [Modify] Иммерсивный перевод: двуязычный перевод веб-страниц и PDF-документов
 // @description:ru     Двуязычный перевод веб-страниц, PDF и электронных книг EPUB, бесплатно.
 // @name:ko     [Modify] 몰입형 번역 - AI 이중 언어 웹 번역 | PDF 번역 | 동영상 번역 | 만화 번역
 // @description:ko     [몰입형 번역] 무료 (원문/번역문) 이중 언어 대조 웹사이트 번역 확장 프로그램으로 PDF 번역 (조판 유지), 비디오 이중 언어 자막 번역 (YouTube, Netflix 등), EPUB 전자책 번역을 지원합니다.
 // @name:id     [Modify] Immersive Translate - Terjemahkan Web & PDF
 // @description:id     Situs Terjemahan Gratis, Terjemahkan PDF & Epub eBook, Terjemahkan Subtitle Video dalam Bilingual
-// @name:hu     Immersive Translate - Web és PDF fordítás
+// @name:hu     [Modify] Immersive Translate - Web és PDF fordítás
 // @description:hu     Weboldalak, PDF-ek és EPUB-könyvek kétnyelvű fordítása, videók kétnyelvű feliratozása. Támogatja többek között a ChatGPT, a DeepL és a Gemini használatát.
 // ==/UserScript==
 
